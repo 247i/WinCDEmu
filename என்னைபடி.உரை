@@ -5,5 +5,3 @@ git config core.symlinks true
 mkdir .github
 cd .github
 mklink ReadMe.md ..\என்னைபடி.உரை
-
-# commit .github/README.md and push to GitHub. 
